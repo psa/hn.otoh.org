@@ -4,11 +4,17 @@ date: 2020-03-20T10:45:15-06:00
 draft: false
 ---
 
+Websites
+--------
+
 There are two official websites for information on COVID-19 in Honduras and the
 Bay Islands:
 
 * http://covid19roatan.com/
-* http://covid19honduras.com/
+* http://covid19honduras.org/
+
+Facebook
+--------
 
 Facebook is being used to get out information and is the primary point used by
 the most of the Bay Islands for communication.
@@ -33,3 +39,7 @@ Others:
   * Lots of information is posted here as well as the bartering posts
   * Acts as a central square for Utila
 
+Twitter
+-------
+
+* https://twitter.com/Presidencia_HN
