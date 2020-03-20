@@ -1,13 +1,19 @@
 ---
-title: "Facebook Groups and People"
+title: "Official Websites"
 date: 2020-03-20T10:45:15-06:00
 draft: false
 ---
 
-Facebook is being used to get out information and is the primary point used by
-the Bay Islands for communication.
+There are two official websites for information on COVID-19 in Honduras and the
+Bay Islands:
 
-We recommend you join or follow the following:
+* http://covid19roatan.com/
+* http://covid19honduras.com/
+
+Facebook is being used to get out information and is the primary point used by
+the most of the Bay Islands for communication.
+
+We recommend you join or follow the following on Facebook:
 
 Official Sites:
 * [Covid-19 Roatan and Bay Islands](https://m.facebook.com/Covid19Roatan/)
