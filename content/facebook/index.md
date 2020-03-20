@@ -17,6 +17,8 @@ Official Sites:
   * Official notices for the Bay Islands
 * [Municipality of Utila](https://www.facebook.com/Municipalidad-de-Utila-328195770717532/)
   * Official notices for Utila
+* [Dino Silvestri](https://www.facebook.com/dinogsilvestri/)
+  * Governor of the Bay Islands
 * [Troy Bodden Sr](https://www.facebook.com/TroyBoddenSr/)
   * Mayor of Utila
 
