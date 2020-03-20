@@ -16,8 +16,8 @@ The current curfews (and links to their announcements) are:
   * If you have symptoms, call +504 8820 2444. **Do not leave your house**
 
 * Supermarkets are limiting their hours:
-  * [Bush](https://www.facebook.com/permalink.php?story_fbid=584964165426927&id=367194180537261): 07:00 - 18:00
-  * [Circle K](https://www.facebook.com/circlekutila/posts/112417333722563): 07:00 - 17:30
+  * [Bush](https://www.facebook.com/permalink.php?story_fbid=585474252042585&id=367194180537261): Temporarily closed
+  * [Circle K](https://www.facebook.com/circlekutila/posts/113466586950971): Temporarily closed
 
 
 * [Absolute Curfew](https://covid19honduras.org/?q=Toque-de-queda-absoluto-se-extiende) ([Original](https://covid19honduras.org/?q=toque-de-queda)):
