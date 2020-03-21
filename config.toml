@@ -63,6 +63,12 @@ summaryLength = 10 # Configure how long the post summary should be on the homepa
   weight = 10
 
 [[menu.main]]
+  identifier = "expat-registration"
+  name = "Expat Registration"
+  url = "/expat-registration/"
+  weight = 98
+
+[[menu.main]]
   identifier = "tags"
   name = "Tags"
   url = "/tags/"
