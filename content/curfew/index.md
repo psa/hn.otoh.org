@@ -2,6 +2,13 @@
 title: "Curfew"
 date: 2020-03-20T10:45:15-06:00
 draft: false
+tags: [
+  "curfew",
+  "food",
+  "martial-law",
+  "transport",
+  "travel",
+]
 ---
 
 We are now under [martial law](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais)
