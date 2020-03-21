@@ -37,5 +37,12 @@ Utila Supermarkets
 * Open 10:00 - 13:00
 * Only 2 people allowed in the store at a time
 
+[Carniceria Cruz](https://www.facebook.com/groups/116804641783120/permalink/1859420500854850/)
+* Doing deliveries
+* Phone:
+  * Rommel: +504-8903-4840
+  * Jaiden: +504-9692-1095
+* [Facebook Messenger](https://www.facebook.com/carniceria.cruz.9)
+
 [Circle K](https://www.facebook.com/circlekutila/posts/113466586950971):
 * Temporarily closed
