@@ -1,6 +1,6 @@
 ---
 title: "Official Websites"
-date: 2020-03-20T10:45:15-06:00
+date: 2020-03-21T09:45:15-06:00
 draft: false
 ---
 
@@ -34,10 +34,15 @@ Official Sites:
 * [Troy Bodden Sr](https://www.facebook.com/TroyBoddenSr/)
   * Mayor of Utila
 
-Others:
+Others (not official):
+* [Honduras Expats](https://www.facebook.com/groups/923940754323275/)
+  * Expat chat for Honduras
 * [Utila Buy and Sell](https://www.facebook.com/groups/116804641783120/)
   * Lots of information is posted here as well as the bartering posts
   * Acts as a central square for Utila
+* [Utila Expats](https://www.facebook.com/groups/utilaexpats/)
+  * Expat chat for Utila.
+  * Julie Shig is a working hard to keep information flowing here.
 
 Twitter
 -------
