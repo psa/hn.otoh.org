@@ -2,7 +2,7 @@ baseURL = "https://hn.otoh.org"
 languageCode = "en-au"
 title = "Honduras Bay Islands COVID-19 Resources"
 theme = "noteworthy"
-enableRobotsTXT = true
+enableRobotsTXT = false
 paginate = 4 # Set the number of posts to show before overflowing to the next page.
 summaryLength = 10 # Configure how long the post summary should be on the homepage.
 
