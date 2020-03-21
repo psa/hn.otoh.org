@@ -12,4 +12,5 @@ requests](https://github.com/psa/hn.otoh.org) or message me for others):
 * [Australia](https://www.smartraveller.gov.au/FAQs): No subscription, call the
   consulate.
 * [Canada](https://travel.gc.ca/travelling/registration)
+  * Please send an email to tglpa.consular@international.gc.ca
 * [USA](https://step.state.gov/)
