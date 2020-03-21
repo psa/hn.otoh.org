@@ -25,6 +25,8 @@ Utila Supermarkets
 * Doing deliveries (please use this if possible)
 * Accept Cash, USD and online transfer
 * Phone: +504 3318 3358
+* Orders can also be sent direct to [Shirlee
+  Bush](https://www.facebook.com/shirlee.bush) via Facebook Messenger
 * Open 10:00 - 13:00
 * Only 2 people allowed in the store at a time
 
