@@ -11,11 +11,22 @@ We are now under [martial law](https://covid19honduras.org/?q=toque-de-queda-abs
 Exceptions
 * Grocery stores and authorised markets
   * Note that on Utila, both Bush's and Circle K are closed
-  * [Bush](https://www.facebook.com/permalink.php?story_fbid=585474252042585&id=367194180537261): Temporarily closed
-  * [Circle K](https://www.facebook.com/circlekutila/posts/113466586950971): Temporarily closed
 * Banasupro mobile units serving basic products
 * Supermarkets, pharmacies, grocery stores, tortillerías, bakeries are authorised to deliver at home
 * Agricultural, agro-industrial, agro-exporter and food distributor sector is
   authorized to continue their work, but must implement biosecurity measures
   for all employees
 * All borders are closed except for freight and foreigners leaving
+
+Utila Supermarkets
+------------------
+
+[Bush](https://www.facebook.com/permalink.php?story_fbid=585937495329594&id=367194180537261):
+* Doing deliveries (please use this if possible)
+* Accept Cash, USD and online transfer
+* Phone: +504 3318 3358
+* Open 10:00 - 13:00
+* Only 2 people allowed in the store at a time
+
+[Circle K](https://www.facebook.com/circlekutila/posts/113466586950971):
+* Temporarily closed
