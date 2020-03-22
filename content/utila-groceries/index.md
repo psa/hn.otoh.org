@@ -13,6 +13,12 @@ tags: [
 This page aims to list all the companies which are open and doing deliveries to
 keep the island functional.
 
+Gas (for cooking)
+-----------------
+
+Gas:
+* +504-3171-8388
+
 Supermarkets
 ------------
 
@@ -20,8 +26,8 @@ Supermarkets
 * Doing deliveries (please use this if possible)
 * Accept Cash, USD and online transfer
 * Phone:
-  * +504-2425-3157
-  * +504-3318-3358
+  * +504-2425-3147
+  * +504-3188-3358 (WhatsApp)
 * Orders can also be sent direct to [Shirlee
   Bush](https://www.facebook.com/shirlee.bush) via Facebook Messenger
 * Open 10:00 - 13:00
