@@ -43,19 +43,36 @@ Private Charters
 * Do not, under any circumstances, pay anything until you see approvals to
   arrive from the governor. Until they get an official approval (which includes
   checks of their legitimacy), they are definitely not coming.
+* The charter being setup by Alisha Bush had a lot of overlap with Global
+  Guardian passengers and no longer has enough passengers to fly, so is
+  cancelled.
 
-* [Miami Charter](https://chat.whatsapp.com/DWutmphthC96LH4imQJB0t):
-  * https://chat.whatsapp.com/DWutmphthC96LH4imQJB0t
-  * US Citizens and residents only
-  * Flight to Miami (MIA)
-  * USD 1,000 per person plus approximately USD 50 in departure fees
-  * Baggage limit: One carry on and one checked
-  * If interested, join the group, read the description for more details. If
-    still interested send the full names of everyone who wants to fly.
 * [Global Guardian](https://chat.whatsapp.com/EJQiAP1P0hS1MUmGzKlWjb):
   * Mail operationscenter at globalguardian dot com
   * If plane is full, cost is USD 1,324 per seat. More if not full.
   * Going to Miami
+  * [Utila to Roatan for the Global Guardian
+    Flight](https://chat.whatsapp.com/HPqqeYjEPK6F3z0V0QS7mz)
+
+If you are trying to organise a charter, the governor needs the following
+(**NB:** charters of 15 or fewer are easier to get grants for):
+* Aircraft tail number:
+* Aircraft type:
+* Pilot-in-Command:
+* Arrival Date and Time in Honduras
+* Departure Date and Location from the United States
+* Departure Date, Time, and Location in Honduras
+* Passenger list including:
+  * Full names
+  * Date of birth
+  * Nationality
+  * Passport number and passport expiration date
+* Crew list including:
+  * Full names
+  * Date of birth
+  * Nationality
+  * Passport number and passport expiration date
+* Routing (cities transiting through)
 
 Airline Specific (confirmed tickets only)
 =========================================
