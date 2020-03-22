@@ -38,6 +38,20 @@ Gas and Butane
 Ocean Petrolium:
 * Phone: +504-3171-8388
 
+General Store
+-------------
+
+Bahia
+* Phone: +504-9704-3844
+* Orders: +504-9534-9522
+
+Pharmacy
+--------
+
+Bahia
+* Phone: +504-9878-8030
+* Orders: +504-9534-9522
+
 Police
 ------
 
@@ -45,6 +59,10 @@ Police
 
 Supermarkets
 ------------
+
+Bahia
+* Phone: +504-9703-2580
+* Orders:  +504-9534-9522
 
 [Bush](https://www.facebook.com/permalink.php?story_fbid=585937495329594&id=367194180537261):
 * Doing deliveries (please use this if possible)
@@ -56,6 +74,9 @@ Supermarkets
   Bush](https://www.facebook.com/shirlee.bush) via Facebook Messenger
 * Open 10:00 - 13:00
 * Only 2 people allowed in the store at a time
+
+Caribbean Mini Market
+* Phone: +504-3247-8624
 
 [Carniceria Cruz](https://www.facebook.com/groups/116804641783120/permalink/1859420500854850/)
 * Doing deliveries
