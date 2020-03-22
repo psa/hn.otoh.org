@@ -15,6 +15,10 @@ We are now under [martial law](https://covid19honduras.org/?q=toque-de-queda-abs
 * Until 2020-03-29 at 03:00
 * All of Honduras
 
+If you have symptoms:
+* Do not leave home
+* Call +504-8820-2444
+
 Exceptions
 * Grocery stores and authorised markets
   * Note that on Utila, both Bush's and Circle K are closed
@@ -31,7 +35,7 @@ Utila Supermarkets
 [Bush](https://www.facebook.com/permalink.php?story_fbid=585937495329594&id=367194180537261):
 * Doing deliveries (please use this if possible)
 * Accept Cash, USD and online transfer
-* Phone: +504 3318 3358
+* Phone: +504-3318-3358
 * Orders can also be sent direct to [Shirlee
   Bush](https://www.facebook.com/shirlee.bush) via Facebook Messenger
 * Open 10:00 - 13:00
