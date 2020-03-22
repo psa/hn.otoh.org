@@ -17,7 +17,8 @@ We are now under [martial law](https://covid19honduras.org/?q=toque-de-queda-abs
 
 If you have symptoms:
 * Do not leave home
-* Call +504-8820-2444
+* Call +504-8820-2444 (federal) or see [this
+  page](http://covid19roatan.com/emergency-numbers/) for local numbers.
 
 Exceptions
 * Grocery stores and authorised markets
