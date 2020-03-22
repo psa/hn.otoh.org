@@ -52,15 +52,21 @@ summaryLength = 10 # Configure length of homepage summary
   weight = 3
 
 [[menu.main]]
+  identifier = 'bay-islands-governor'
+  name = "Governer Summaries"
+  url = '/tags/bay-islands-governor/'
+  weight = 10
+
+[[menu.main]]
   identifier = 'utila-mayor'
   name = "Utila Mayor Summaries"
   url = '/tags/utila-mayor/'
   weight = 10
 
 [[menu.main]]
-  identifier = 'bay-islands-governor'
-  name = "Governer Summaries"
-  url = '/tags/bay-islands-governor/'
+  identifier = 'utila-groceries'
+  name = "Utila Groceries and Deliveries"
+  url = '/utila-groceries/'
   weight = 10
 
 [[menu.main]]
