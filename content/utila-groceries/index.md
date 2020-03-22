@@ -13,11 +13,35 @@ tags: [
 This page aims to list all the companies which are open and doing deliveries to
 keep the island functional.
 
-Gas (for cooking)
------------------
+Doctor
+------
 
-Gas:
-* +504-3171-8388
+Clinica Privada Utila:
+* Phone: +504-9711-4955 (Also WhatsApp)
+* Phone: +504-3285-6843
+
+Medical Clinica Doctor Reyes
+* Phone: +504-8951-0549
+
+Utila Hyperbaric center and Trauma Center
+* Phone: +504-3368-9144
+
+Electricity
+-----------
+
+UPCO:
+* Phone: +504 8911-0633
+
+Gas and Butane
+--------------
+
+Ocean Petrolium:
+* Phone: +504-3171-8388
+
+Police
+------
+
+* Phone: +504-3199-9632 (Chief)
 
 Supermarkets
 ------------
@@ -43,8 +67,18 @@ Supermarkets
 [Circle K](https://www.facebook.com/circlekutila/posts/113466586950971):
 * Temporarily closed
 
+Mermaids
+* Phone: +504-9728-2623
+
+Mini Súper MIRIAN’S JK
+* Phone: +504-9820-5724
+
 Water
 -----
 
 Johnny‘s Purified Water:
 * Phone: +504-2425-3304
+
+Island Spring:
+* Phone: +504-9805-3218
+* Closed Sundays
