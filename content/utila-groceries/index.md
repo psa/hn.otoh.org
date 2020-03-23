@@ -1,5 +1,5 @@
 ---
-title: "Groceries on Utila"
+title: "Groceries and Essentials on Utila"
 date: 2020-03-22T08:24:15-06:00
 draft: false
 tags: [
@@ -86,7 +86,8 @@ Caribbean Mini Market:
 * Temporarily closed
 
 Mermaids:
-* Phone: +504-9728-2623
+* Phone: +504-9728-2623 (WhatsApp)
+* Phone: +504-9730-6223 (WhatsApp)
 
 Mini Súper MIRIAN’S JK:
 * Phone: +504-9820-5724
