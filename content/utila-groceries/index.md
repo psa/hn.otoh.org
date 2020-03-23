@@ -54,8 +54,8 @@ Police
 
 * Phone: +504-3199-9632 (Chief)
 
-Supermarkets
-------------
+Supermarkets and Groceries
+--------------------------
 
 Bahia:
 * Phone: +504-9703-2580
@@ -91,6 +91,9 @@ Mermaids:
 
 Mini Súper MIRIAN’S JK:
 * Phone: +504-9820-5724
+
+Yama Angel and Fany Stor:
+* Phone: +504-9645-5124 (WhatsApp)
 
 Water
 -----
