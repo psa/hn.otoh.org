@@ -13,17 +13,21 @@ tags: [
 This page aims to list all the companies which are open and doing deliveries to
 keep the island functional.
 
-Doctor
-------
+Doctor and Pharmacy
+-------------------
+
+Bahia:
+* Phone: +504-9878-8030
+* Orders: +504-9534-9522
 
 Clinica Privada Utila:
 * Phone: +504-9711-4955 (Also WhatsApp)
 * Phone: +504-3285-6843
 
-Medical Clinica Doctor Reyes
+Medical Clinica Doctor Reyes:
 * Phone: +504-8951-0549
 
-Utila Hyperbaric center and Trauma Center
+Utila Hyperbaric center and Trauma Center:
 * Phone: +504-3368-9144
 
 Electricity
@@ -41,15 +45,8 @@ Ocean Petrolium:
 General Store
 -------------
 
-Bahia
+Bahia:
 * Phone: +504-9704-3844
-* Orders: +504-9534-9522
-
-Pharmacy
---------
-
-Bahia
-* Phone: +504-9878-8030
 * Orders: +504-9534-9522
 
 Police
@@ -60,7 +57,7 @@ Police
 Supermarkets
 ------------
 
-Bahia
+Bahia:
 * Phone: +504-9703-2580
 * Orders:  +504-9534-9522
 
@@ -75,10 +72,10 @@ Bahia
 * Open 10:00 - 13:00
 * Only 2 people allowed in the store at a time
 
-Caribbean Mini Market
+Caribbean Mini Market:
 * Phone: +504-3247-8624
 
-[Carniceria Cruz](https://www.facebook.com/groups/116804641783120/permalink/1859420500854850/)
+[Carniceria Cruz](https://www.facebook.com/groups/116804641783120/permalink/1859420500854850/):
 * Doing deliveries
 * Phone:
   * Rommel: +504-8903-4840
@@ -88,18 +85,18 @@ Caribbean Mini Market
 [Circle K](https://www.facebook.com/circlekutila/posts/113466586950971):
 * Temporarily closed
 
-Mermaids
+Mermaids:
 * Phone: +504-9728-2623
 
-Mini Súper MIRIAN’S JK
+Mini Súper MIRIAN’S JK:
 * Phone: +504-9820-5724
 
 Water
 -----
 
-Johnny‘s Purified Water:
-* Phone: +504-2425-3304
-
 Island Spring:
 * Phone: +504-9805-3218
 * Closed Sundays
+
+Johnny‘s Purified Water:
+* Phone: +504-2425-3304
