@@ -27,6 +27,9 @@ Clinica Privada Utila:
 Medical Clinica Doctor Reyes:
 * Phone: +504-8951-0549
 
+Farmacia Díaz:
+* Phone: +504-8951-0549
+
 Utila Hyperbaric center and Trauma Center:
 * Phone: +504-3368-9144
 
