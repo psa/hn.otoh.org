@@ -47,11 +47,11 @@ Private Charters
   Guardian passengers and no longer has enough passengers to fly, so is
   cancelled.
 
-* [Small Charters to the USA](https://chat.whatsapp.com/DWutmphthC96LH4imQJB0t)
+* [Small Charters to the USA](https://chat.whatsapp.com/DWutmphthC96LH4imQJB0t):
   * Organising small (~25 people) charters to the USA
   * Pricing is approximately USD 2,800 per person for a 14 seater and USD 3,313
     per person for an 8 seater
-* [Global Guardian](https://chat.whatsapp.com/EJQiAP1P0hS1MUmGzKlWjb):
+* [Global Guardian](https://chat.whatsapp.com/Ko3DHZTcYoFJyXVF9gxHPy):
   * Mail operationscenter at globalguardian dot com
   * If plane is full, cost is USD 1,324 per seat. More if not full.
   * Going to Miami
