@@ -90,8 +90,9 @@ Caribbean Mini Market:
   * Jaiden: +504-9692-1095
 * [Facebook Messenger](https://www.facebook.com/carniceria.cruz.9)
 
-[Circle K](https://www.facebook.com/circlekutila/posts/113466586950971):
-* Temporarily closed
+[Circle K](https://www.facebook.com/circlekutila)
+* If you want hot dogs, please call ahead to have them prepared
+* Phone: +504-3218-7580
 
 Mermaids:
 * Phone: +504-9728-2623 (WhatsApp)
@@ -99,6 +100,9 @@ Mermaids:
 
 Mini Súper MIRIAN’S JK:
 * Phone: +504-9820-5724
+
+Samantha's Mini Mart
+* Phone +504-2425-3110 (WhatsApp)
 
 Yama Angel and Fany Stor:
 * Phone: +504-9645-5124 (WhatsApp)
