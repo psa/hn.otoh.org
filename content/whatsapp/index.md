@@ -11,18 +11,24 @@ activities around Utila (mostly flights off for those who want to leave).
 person limit in each group and you might be stopping someone who needs to be
 there from gaining access.
 
+Medication
+==========
+
+* [Medication Assist](https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0)
+  * https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0
+  * For important prescription medications which are difficult to acquire
 
 Country Specific
 ================
 
-* Argentinia:
+* Argentina:
   * Private group, contact another citizen to get in
 * [Australia and New Zealand](https://chat.whatsapp.com/KgnslAWxwqXF3Fdc3DCjGs)
   * https://chat.whatsapp.com/KgnslAWxwqXF3Fdc3DCjGs
   * AU and NZ citizens/residents.
 * [Canada](https://chat.whatsapp.com/FTROIfjs0XG9NqhO3SfMy2):
   * https://chat.whatsapp.com/FTROIfjs0XG9NqhO3SfMy2
-  * Airtransat
+  * Air Transat
   * West Jet
   * Canadian Citizens without a booked flight
 * [Europe](https://chat.whatsapp.com/DpG6e4nTTZXDxUecetcYZL):
