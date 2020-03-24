@@ -1,6 +1,6 @@
 ---
 title: "Groceries and Essentials on Utila"
-date: 2020-03-22T08:24:15-06:00
+date: 2020-03-23T16:24:15-06:00
 draft: false
 tags: [
   "food",
@@ -19,6 +19,11 @@ Doctor and Pharmacy
 Bahia:
 * Phone: +504-9878-8030
 * Orders: +504-9534-9522
+
+Clínica La Fe:
+* Phone:
+  * +504-9887-1360 (WhatsApp)
+  * +504-9819-4509
 
 Clinica Privada Utila:
 * Phone: +504-9711-4955 (Also WhatsApp)
@@ -101,9 +106,17 @@ Yama Angel and Fany Stor:
 Water
 -----
 
+Agua Mimos:
+* Phone: +504-3331-4683
+
 Island Spring:
-* Phone: +504-9805-3218
+* Phone:
+  * +504-9805-3218 (WhatsApp)
+  * +504-9679-9769
+  * +504-2425-3173 (office)
 * Closed Sundays
 
 Johnny‘s Purified Water:
-* Phone: +504-2425-3304
+* Phone:
+  * +504-9516-9917 (WhatsApp)
+  * +504-2425-3304
