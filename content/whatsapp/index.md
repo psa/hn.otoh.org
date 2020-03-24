@@ -14,7 +14,7 @@ there from gaining access.
 Medication
 ==========
 
-* [Medication Assist](https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0)
+* [Medication Assist Roatan](https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0)
   * https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0
   * For important prescription medications which are difficult to acquire
 
