@@ -102,7 +102,9 @@ Mini Súper MIRIAN’S JK:
 * Phone: +504-9820-5724
 
 Samantha's Mini Mart
-* Phone +504-2425-3110 (WhatsApp)
+* Phone:
+  * +504-2425-3110
+  * +504-3394-0259
 
 Yama Angel and Fany Stor:
 * Phone: +504-9645-5124 (WhatsApp)
