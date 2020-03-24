@@ -69,7 +69,7 @@ Bahia:
 * Phone: +504-9703-2580
 * Orders:  +504-9534-9522
 
-[Bush](https://www.facebook.com/permalink.php?story_fbid=585937495329594&id=367194180537261):
+[Bush](https://www.facebook.com/Bush-Supermarket-367194180537261):
 * Doing deliveries (please use this if possible)
 * Accept Cash, USD and online transfer
 * Phone:
