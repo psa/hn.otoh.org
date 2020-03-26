@@ -11,9 +11,15 @@ tags: [
 ]
 ---
 
-We are now under [martial law](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais)
+We are now under [absolute
+curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais)
 * Until 2020-03-29 at 03:00
 * All of Honduras
+* Don't leave home except for:
+  * Medical emergencies
+  * Groceries
+  * Heading to the airport to leave the country
+    * You will need your passport and ticket with you to show the police.
 
 If you have symptoms:
 * Do not leave home
@@ -22,9 +28,9 @@ If you have symptoms:
 
 Exceptions
 * Grocery stores and authorised markets
-  * Note that on Utila, both Bush's and Circle K are closed
 * Banasupro mobile units serving basic products
-* Supermarkets, pharmacies, grocery stores, tortillerías, bakeries are authorised to deliver at home
+* Supermarkets, pharmacies, grocery stores, tortillerías, bakeries are
+  authorised to deliver at home
 * Agricultural, agro-industrial, agro-exporter and food distributor sector is
   authorized to continue their work, but must implement biosecurity measures
   for all employees
