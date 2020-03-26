@@ -12,32 +12,52 @@ tags: [
 This page aims to list all the restaurants which are open and doing take away
 or delivery of meals.
 
-Blanca Rotisserie Chicken
-* Delivery Only
+Blanca Rotisserie Chicken:
+* Delivery
+* [Message Blanca on Facebook](https://www.facebook.com/blanca.murphy)
 * Not daily
 * Whole chicken: HNL 190
-* [Message Blanca on Facebook](https://www.facebook.com/blanca.murphy)
 * Delivery fee (goes direct to driver):
   * Center of town HNL 30
   * Blue Bayou & Trade Winds HNL 40
   * Airport HNL 50
+
+Gagas:
+* Delivery
+* Phone: +504-3211-3317 (WhatsApp)
 
 Grace Cafe:
 * Delivery only
 * Making buns
 * +504-8967-2315
 
-Mermaids:
-* Phone: +504-9728-2623 (WhatsApp)
-* Phone: +504-9730-6223 (WhatsApp)
-
-Sandy Bay
-* Across from Skidrow
+Hot Spot Cafe:
 * Take away
+* Phone: +504-3165-2872 (WhatsApp)
 
-Seven Seas
+Mango Inn:
+* Take away
+* [Message Jimmy Clinton on Facebook](https://www.facebook.com/jimmy.clinton.35)
+* 2 for 1 Pizzas on Tuesday
+
+Mermaids:
+* Take away
+* Phone:
+  * +504-9728-2623 (WhatsApp)
+  * +504-9730-6223 (WhatsApp)
+
+Pizza Nut:
+* Delivery
+* Phone: +504-9969-6360
+
+Relapse Seafood Restaurant:
+* Take away
+* +504-9648-6701
+
+Sandy Bay:
+* Take away
+* Across from Skidrow
+
+Seven Seas:
 * Delivery
 * +504 3168-7565 (WhatsApp)
-
-Are you doing takeout only or delivery only or both?
-Is there a WhatsApp number people can message to order ahead?
