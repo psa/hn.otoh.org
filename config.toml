@@ -65,9 +65,15 @@ summaryLength = 10 # Configure length of homepage summary
 
 [[menu.main]]
   identifier = 'utila-groceries'
-  name = "Utila Groceries and Deliveries"
+  name = "Utila Groceries and Services"
   url = '/utila-groceries/'
   weight = 11
+
+[[menu.main]]
+  identifier = 'utila-restaurants'
+  name = "Utila Restaurants
+  url = '/utila-restaurants/'
+  weight = 12
 
 [[menu.main]]
   identifier = "expat-registration"
