@@ -108,7 +108,7 @@ Airline Specific (confirmed tickets only)
   * https://chat.whatsapp.com/IDAxU7OhPU1KpwYufaXFv5
 * [American Airlines](https://chat.whatsapp.com/BugGfJADpKK64fNXgaB7tK)
   * https://chat.whatsapp.com/BugGfJADpKK64fNXgaB7tK
-  * American is not running services until at least 2020-05-06
+  * American have two flights scheduled for the weekend of the 27th
 * [Other Airlines](https://chat.whatsapp.com/GIQFULxzRvRALXw8Gwafm3)
   * https://chat.whatsapp.com/GIQFULxzRvRALXw8Gwafm3
   * Avianca
