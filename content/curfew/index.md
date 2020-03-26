@@ -20,6 +20,7 @@ curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais
   * Groceries
   * Heading to the airport to leave the country
     * You will need your passport and ticket with you to show the police.
+* Hours for getting groceries: 10:00 - 13:00 daily
 
 If you have symptoms:
 * Do not leave home
