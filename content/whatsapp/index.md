@@ -18,13 +18,6 @@ Medication
   * https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0
   * For important prescription medications which are difficult to acquire
 
-Honduras Internal Travel (Including getting between Bay Islands)
-================================================================
-
-* [USA Utila](https://chat.whatsapp.com/FlPnXNqi0S7AMk6hf5L999)
-  * https://chat.whatsapp.com/FlPnXNqi0S7AMk6hf5L999
-  * For those trying to get from Utila to Roatan
-
 Country Specific
 ================
 
@@ -117,8 +110,14 @@ Airline Specific (confirmed tickets only)
   * AirEuropa
   * Copa
   * Everyone not covered by any other group
-* Connector flights
-  * [SAP to RTB](https://chat.whatsapp.com/LW3qB8N7Zk9KbHRBaBSoaF)
+
+Connector Flights
+=================
+
+* [SAP to RTB](https://chat.whatsapp.com/LW3qB8N7Zk9KbHRBaBSoaF)
+  * https://chat.whatsapp.com/LW3qB8N7Zk9KbHRBaBSoaF
+* [Utila (UII) to RTB](https://chat.whatsapp.com/FlPnXNqi0S7AMk6hf5L999)
+  * https://chat.whatsapp.com/FlPnXNqi0S7AMk6hf5L999
 
 Other Airline Information
 =========================
