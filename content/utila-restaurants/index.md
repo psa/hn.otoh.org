@@ -56,8 +56,12 @@ Relapse Seafood Restaurant:
 
 Sandy Bay:
 * Take away
-* Across from Skidrow
+* +504-9493-8389
 
 Seven Seas:
 * Delivery
 * +504 3168-7565 (WhatsApp)
+
+The Rock Cafe:
+* Takeout
+* +504-3351-3461 (WhatsApp)
