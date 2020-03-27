@@ -18,6 +18,13 @@ Medication
   * https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0
   * For important prescription medications which are difficult to acquire
 
+Honduras Internal Travel (Including getting between Bay Islands)
+================================================================
+
+* [USA Utila](https://chat.whatsapp.com/FlPnXNqi0S7AMk6hf5L999)
+  * https://chat.whatsapp.com/FlPnXNqi0S7AMk6hf5L999
+  * For those trying to get from Utila to Roatan
+
 Country Specific
 ================
 
