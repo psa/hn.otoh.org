@@ -95,8 +95,6 @@ Airline Specific (confirmed tickets only)
     * https://chat.whatsapp.com/JlBMtbacOZw7oMv3dosN1m
     * Currently on the Honduran mainland
   * Week of 2020-03-22 daily flights RTB to IAH:
-    * [2020-03-26 (Thursday)](https://chat.whatsapp.com/KuI0PocZNuGIIv8Z67BMZK)
-    * [2020-03-27 (Friday)](https://chat.whatsapp.com/I4BbMQl2qqHBw9Vx2yxrTy)
     * [2020-03-28 (Saturday)](https://chat.whatsapp.com/Fml57eTCtIhATSYTtalOn7)
     * [2020-03-29 (Sunday)](https://chat.whatsapp.com/Kpjb6kkfRsUHHUqlH7zIGU)
     * [2020-03-30 (Monday)](https://chat.whatsapp.com/Iw4wC7VFeMf9TyFB1Mk1qG)
