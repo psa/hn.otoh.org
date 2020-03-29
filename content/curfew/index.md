@@ -28,8 +28,8 @@ curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais
 Grocery Hours By ID:
 * Based on the last digit of your national ID or passport
 * Hours:
-  * Most people: 09:00 - 15:00
   * Seniors, pregnant women and disabled: 07:00 - 09:00
+  * Everyone else: 09:00 - 15:00
 * You may shop based on the last digit of your ID:
   * 1,2,3: Monday
   * 4,5,6: Wednesday
