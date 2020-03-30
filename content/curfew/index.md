@@ -20,6 +20,10 @@ curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais
   * Groceries
   * Heading to the airport to leave the country
     * You will need your passport and ticket with you to show the police.
+* General curfew 18:00 - 06:00.
+  * If doing food delivery, can deliver until then.
+  * Please let employees leave at 17:00 so they have time to get home before
+    the curfew.
 * Hours for getting groceries are now [segmented based on
   ID](https://covid19honduras.org/?q=toque-de-queda-hasta-12-de-abril)
 * Only 2 people allowed in a vehicle, only one of which will be permitted to go
@@ -29,6 +33,7 @@ Grocery Hours By ID:
 * Based on the last digit of your national ID or passport
 * Hours:
   * Seniors, pregnant women and disabled: 07:00 - 09:00
+    * Can go Monday, Wednesday, Friday reguardless of ID number
   * Everyone else: 09:00 - 15:00
 * You may shop based on the last digit of your ID:
   * 1,2,3: Monday
@@ -40,6 +45,8 @@ Grocery Hours By ID:
   * Pharmacies
   * Banks
 * Tuesday, Thursday, Saturday, Sunday: Movement prohibited
+
+Please wear a mask and gloves if you have them.
 
 If you have symptoms:
 * Do not leave home
