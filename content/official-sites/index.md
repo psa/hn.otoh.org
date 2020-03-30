@@ -1,6 +1,6 @@
 ---
 title: "Official Websites"
-date: 2020-03-21T09:45:15-06:00
+date: 2020-03-30T15:28:15-06:00
 draft: false
 ---
 
@@ -12,6 +12,16 @@ Bay Islands:
 
 * http://covid19roatan.com/
 * http://covid19honduras.org/
+
+Returning Residents Forms
+-------------------------
+
+Bay Islands residents/citizens who want to return from outside the Bay Islands
+should fill in one of these forms (one per person):
+
+Engish - https://forms.gle/2hNt4pCJJYssKb666
+
+Español - https://forms.gle/pd5GtCxTmpqU6e6k8
 
 Facebook
 --------
