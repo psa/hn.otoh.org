@@ -33,7 +33,7 @@ Grocery Hours By ID:
 * Based on the last digit of your national ID or passport
 * Hours:
   * Seniors, pregnant women and disabled: 07:00 - 09:00
-    * Can go Monday, Wednesday, Friday reguardless of ID number
+    * Can go Monday, Wednesday, Friday regardless of ID number
   * Everyone else: 09:00 - 15:00
 * You may shop based on the last digit of your ID:
   * 1,2,3: Monday
