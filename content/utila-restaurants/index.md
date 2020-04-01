@@ -44,7 +44,7 @@ Mermaids:
 * Take away
 * Phone:
   * +504-9728-2623 (WhatsApp)
-  * +504-9730-6223 (WhatsApp)
+  * +504-3350-1353 (WhatsApp)
 
 Pizza Nut:
 * Delivery
