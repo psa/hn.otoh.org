@@ -35,6 +35,10 @@ Hot Spot Cafe:
 * Take away
 * Phone: +504-3165-2872 (WhatsApp)
 
+La Casita:
+* Delivery only
+* +504-9707-3805 (WhatsApp)
+
 Mango Inn:
 * Take away
 * [Message Jimmy Clinton on Facebook](https://www.facebook.com/jimmy.clinton.35)
