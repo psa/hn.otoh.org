@@ -18,6 +18,50 @@ Medication
   * https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0
   * For important prescription medications which are difficult to acquire
 
+Private Charters
+================
+
+**Notes:**
+* These are private charters and are not being organised through the embassy or
+  any Honduran government offices.
+* Do not, under any circumstances, pay anything until you see approvals to
+  arrive from the governor. Until they get an official approval (which includes
+  checks of their legitimacy), they are definitely not coming.
+
+* Small Charters to the USA:
+  * Pricing is approximately USD 2,800 per person for a 14 seater and USD 3,313
+    per person for an 8 seater
+  * Various travel services on Utila and Roatan can help you set these up
+* Global Guardian:
+  * Mail operationscenter at globalguardian dot com
+  * If plane is full, cost is USD 1,324 per seat. More if not full.
+
+If you are trying to organise a charter, the governor needs the following
+(**NB:** charters of 15 or fewer are easier to get grants for):
+* Aircraft tail number:
+* Aircraft type:
+* Pilot-in-Command:
+* Arrival Date and Time in Honduras
+* Departure Date and Location from the United States
+* Departure Date, Time, and Location in Honduras
+* Passenger list including:
+  * Full names
+  * Date of birth
+  * Nationality
+  * Passport number and passport expiration date
+* Crew list including:
+  * Full names
+  * Date of birth
+  * Nationality
+  * Passport number and passport expiration date
+* Routing (cities transiting through)
+
+Airlines
+========
+
+The following is mostly obsolete as there aren't currently any planned flights
+into the islands.
+
 Country Specific
 ================
 
@@ -40,50 +84,6 @@ Country Specific
   * https://chat.whatsapp.com/FNfNj2krvz51AC4TRvceyP
   * US Citizens without a ticket who want to leave
 
-Private Charters
-================
-
-**Notes:**
-* These are private charters and are not being organised through the embassy or
-  any Honduran government offices.
-* Do not, under any circumstances, pay anything until you see approvals to
-  arrive from the governor. Until they get an official approval (which includes
-  checks of their legitimacy), they are definitely not coming.
-* The charter being setup by Alisha Bush had a lot of overlap with Global
-  Guardian passengers and no longer has enough passengers to fly, so is
-  cancelled.
-
-* [Small Charters to the USA](https://chat.whatsapp.com/DWutmphthC96LH4imQJB0t):
-  * Organising small (~25 people) charters to the USA
-  * Pricing is approximately USD 2,800 per person for a 14 seater and USD 3,313
-    per person for an 8 seater
-* [Global Guardian](https://chat.whatsapp.com/Ko3DHZTcYoFJyXVF9gxHPy):
-  * Mail operationscenter at globalguardian dot com
-  * If plane is full, cost is USD 1,324 per seat. More if not full.
-  * Going to Miami
-  * One plane left on 2020-03-22, they'll schdule another if there's enough
-    interest.
-
-If you are trying to organise a charter, the governor needs the following
-(**NB:** charters of 15 or fewer are easier to get grants for):
-* Aircraft tail number:
-* Aircraft type:
-* Pilot-in-Command:
-* Arrival Date and Time in Honduras
-* Departure Date and Location from the United States
-* Departure Date, Time, and Location in Honduras
-* Passenger list including:
-  * Full names
-  * Date of birth
-  * Nationality
-  * Passport number and passport expiration date
-* Crew list including:
-  * Full names
-  * Date of birth
-  * Nationality
-  * Passport number and passport expiration date
-* Routing (cities transiting through)
-
 Airline Specific (confirmed tickets only)
 =========================================
 
@@ -94,11 +94,6 @@ Airline Specific (confirmed tickets only)
   * [Mainland](https://chat.whatsapp.com/JlBMtbacOZw7oMv3dosN1m)
     * https://chat.whatsapp.com/JlBMtbacOZw7oMv3dosN1m
     * Currently on the Honduran mainland
-  * Week of 2020-03-22 daily flights RTB to IAH:
-    * [2020-03-28 (Saturday)](https://chat.whatsapp.com/Fml57eTCtIhATSYTtalOn7)
-    * [2020-03-29 (Sunday)](https://chat.whatsapp.com/Kpjb6kkfRsUHHUqlH7zIGU)
-    * [2020-03-30 (Monday)](https://chat.whatsapp.com/Iw4wC7VFeMf9TyFB1Mk1qG)
-    * [2020-03-31 (Tuesday)](https://chat.whatsapp.com/FhkP5Vw4DBT1BMiCKiHCRn)
 * [Delta](https://chat.whatsapp.com/IDAxU7OhPU1KpwYufaXFv5)
   * https://chat.whatsapp.com/IDAxU7OhPU1KpwYufaXFv5
 * [American Airlines](https://chat.whatsapp.com/BugGfJADpKK64fNXgaB7tK)
