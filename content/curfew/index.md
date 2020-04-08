@@ -22,6 +22,7 @@ curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais
   * Groceries
   * Heading to the airport to leave the country
     * You will need your passport and ticket with you to show the police.
+* If you are outside, face masks are mandatory.
 * General curfew 18:00 - 06:00.
   * Please let employees leave at 17:00 so they have time to get home before
     the curfew.
