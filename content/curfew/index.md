@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-04-07T19:12:15-06:00
+date: 2020-04-08T22:12:15-06:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -15,41 +15,65 @@ tags: [
 
 We are now under [absolute
 curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais)
-* 2020-03-30 to 2020-04-12
+* The latest update is [here](https://www.facebook.com/gobernacionislas/photos/a.172315433411807/557572661552747/?type=3&theater)
+* [PCM-021-2020](https://www.presidencia.gob.hn/index.php/sala-de-prensa/7016-decreto-ejecutivo-numero-pcm-021-2020)
+  is still in effect and denotes the exceptions to the curfew
+* Effective until 15:00 on 2020-04-19
 * All of Honduras
+* Only 2 people allowed in a vehicle, only one of which will be permitted to go
+  shopping
+* Restaurant delivery and take out is currently forbidden, so restaurants must
+  be closed.
+  * Restaurants will be permitted to re-open for take out and delivery once
+    appropriate biosecurity protocols are established.
+
+Hours:
+* General curfew 18:00 - 06:00.
+  * Please let employees leave at 17:00 so they have time to get home before
+    the curfew.
 * Don't leave home except for:
   * Medical emergencies
   * Groceries
   * Heading to the airport to leave the country
     * You will need your passport and ticket with you to show the police.
-* If you are outside, face masks are mandatory.
-* General curfew 18:00 - 06:00.
-  * Please let employees leave at 17:00 so they have time to get home before
-    the curfew.
-* Hours for getting groceries are now [segmented based on
-  ID](https://covid19honduras.org/?q=toque-de-queda-hasta-12-de-abril)
-* Only 2 people allowed in a vehicle, only one of which will be permitted to go
-  shopping
-* Restaurant delivery and take out is currently forbidden, so restaurants must
-  be closed.
+  * Working a required job, which is one of the following:
+    * SINAGER personnel
+    * Heavy transport
+    * Food trucks
+    * People with exception notes
 
 Grocery Hours By ID:
 * Based on the last digit of your national ID or passport
-* Hours:
-  * Seniors, pregnant women and disabled: 07:00 - 09:00
-  * Everyone else: 09:00 - 17:00
-* You may shop based on the last digit of your ID:
-  * 1,2,3: Monday
-  * 4,5,6: Wednesday
-  * 7,8,9,0: Friday
 * Applies to:
   * Supermarkets
   * Petrol stations
   * Pharmacies
   * Banks
-* Tuesday, Thursday, Saturday, Sunday: Movement prohibited
+* Hours:
+  * Seniors, pregnant women and disabled: 07:00 - 09:00
+    * Banks: 09:00 - 10:00
+  * Everyone else: 09:00 - 17:00
+    * Banks: 10:00 - 17:00
+* You may shop based on the last digit of your ID (national or passport):
+  * 1,2: Monday
+  * 3,4: Tuesday
+  * 5,6: Wednesday
+  * 7,8: Thursday
+  * 9,0: Friday
+* Saturday, Sunday: Movement prohibited
+  * There is an exception for the 10th and 11th of April:
+    * 10th of April: Only numbers 7 and 8
+    * 11th of April: Only numbers 9 and 0
 
-Please wear a mask and gloves if you have them.
+Required Bio Security Measures:
+* If you are leaving your house you must:
+  * Wear a face mask
+  * Keep at least 2 meters from other people (social distancing)
+* Businesses must:
+  * Ensure all staff are wearing face masks
+  * Provide hand gel for customers and staff
+  * Use themometers at the entrance to take customers temperatures and forbid
+    access to those with a fever
 
 If you have symptoms:
 * Do not leave home
