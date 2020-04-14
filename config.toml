@@ -58,12 +58,6 @@ summaryLength = 10 # Configure length of homepage summary
   weight = 10
 
 [[menu.main]]
-  identifier = 'whatsapp'
-  name = "WhatsApp Groups (mostly flights)"
-  url = '/whatsapp/'
-  weight = 12
-
-[[menu.main]]
   identifier = 'curfew'
   name = 'Curfew'
   url = '/curfew/'
@@ -91,7 +85,13 @@ summaryLength = 10 # Configure length of homepage summary
   identifier = 'utila-restaurants'
   name = "Utila Restaurants"
   url = '/utila-restaurants/'
-  weight = 12
+  weight = 22
+
+[[menu.main]]
+  identifier = 'whatsapp'
+  name = "WhatsApp Groups (mostly flights)"
+  url = '/whatsapp/'
+  weight = 90
 
 [[menu.main]]
   identifier = "expat-registration"
