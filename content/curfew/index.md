@@ -22,6 +22,7 @@ curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais
 * All of Honduras
 * Only 2 people allowed in a vehicle, only one of which will be permitted to go
   shopping
+  * Do not bring children shopping. They should stay at home.
 * Restaurant delivery and take out is currently forbidden, so restaurants must
   be closed.
   * Restaurants will be permitted to re-open for take out and delivery once
