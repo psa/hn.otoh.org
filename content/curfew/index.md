@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-04-08T22:12:15-06:00
+date: 2020-04-13T22:12:15-06:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -26,6 +26,7 @@ curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais
   be closed.
   * Restaurants will be permitted to re-open for take out and delivery once
     appropriate biosecurity protocols are established.
+* Businesses requesting an operating permit should mail ccib_2000@yahoo.es
 
 Hours:
 * General curfew 18:00 - 06:00.
@@ -81,10 +82,25 @@ If you have symptoms:
   page](http://covid19roatan.com/emergency-numbers/) for local numbers.
 
 Fishing:
-* Permitted for humanitarian reasons
+* Permitted for personal and humanitarian reasons
+* Commercial fishing is forbidden
 * Local laws about equipment and species still exist
-* Please speak to the port authority for permission to take boats out
+* Please speak to the patrando and port authority for permission to take boats
+  out
 
-Diving:
+Diving and Snorkelling:
 * Must be entirely personal equipment, including a personal boat if required 
-* Please speak to the port authority for permission to take boats out
+* Please speak to the patrando and port authority for permission to take boats
+  out
+
+Suspicious Activity Contacts:
+* Navy: +504-3249-8446
+* Roatan Marine Park: +504-9430-3198
+* Merchant Marine: +504-9970-5310 (Capt Meija Gonzales) or +504-9846-7781 (Don
+  McLaughlin)
+
+Returning to the Bay Islands:
+* If you are a resident of the bay islands and wish to return, fill out one of
+  these forms:
+  * English: https://forms.gle/2hNt4pCJJYssKb666
+  * Español: https://forms.gle/pd5GtCxTmpqU6e6k8
