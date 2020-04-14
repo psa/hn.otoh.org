@@ -35,19 +35,19 @@ summaryLength = 10 # Configure length of homepage summary
 
 [[menu.main]]
   identifier = 'make-it-count'
-  name = "Donation: Make it Count"
+  name = 'Donation: Make it Count'
   url = 'https://themakeitcountfoundation.org/'
   weight = 0
 
 [[menu.main]]
   identifier = 'sol-foundation'
-  name = "Donation: Sol Foundation"
+  name = 'Donation: Sol Foundation'
   url = 'https://www.solroatan.org/'
   weight = 0
 
 [[menu.main]]
-  identifier = 'support-utila
-  name = "Donation: Support Utila"
+  identifier = 'support-utila'
+  name = 'Donation: Support Utila'
   url = 'http://www.SupportUtila.org'
   weight = 0
 
