@@ -34,6 +34,24 @@ summaryLength = 10 # Configure length of homepage summary
 # Hugo will sort the entries alphabetically.
 
 [[menu.main]]
+  identifier = 'make-it-count'
+  name = "Donation: Make it Count"
+  url = 'https://themakeitcountfoundation.org/'
+  weight = 0
+
+[[menu.main]]
+  identifier = 'sol-foundation'
+  name = "Donation: Sol Foundation"
+  url = 'https://www.solroatan.org/'
+  weight = 0
+
+[[menu.main]]
+  identifier = 'support-utila
+  name = "Donation: Support Utila"
+  url = 'http://www.SupportUtila.org'
+  weight = 0
+
+[[menu.main]]
   identifier = 'official-sites'
   name = "Official Websites"
   url = '/official-sites/'
