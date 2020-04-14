@@ -37,55 +37,55 @@ summaryLength = 10 # Configure length of homepage summary
   identifier = 'make-it-count'
   name = 'Donation: Make it Count'
   url = 'https://themakeitcountfoundation.org/'
-  weight = 0
+  weight = 1
 
 [[menu.main]]
   identifier = 'sol-foundation'
   name = 'Donation: Sol Foundation'
   url = 'https://www.solroatan.org/'
-  weight = 0
+  weight = 1
 
 [[menu.main]]
   identifier = 'support-utila'
   name = 'Donation: Support Utila'
   url = 'http://www.SupportUtila.org'
-  weight = 0
+  weight = 1
 
 [[menu.main]]
   identifier = 'official-sites'
   name = "Official Websites"
   url = '/official-sites/'
-  weight = 1
+  weight = 10
 
 [[menu.main]]
   identifier = 'whatsapp'
   name = "WhatsApp Groups (mostly flights)"
   url = '/whatsapp/'
-  weight = 2
+  weight = 12
 
 [[menu.main]]
   identifier = 'curfew'
   name = 'Curfew'
   url = '/curfew/'
-  weight = 3
+  weight = 13
 
 [[menu.main]]
   identifier = 'bay-islands-governor'
   name = "Governer Summaries"
   url = '/tags/bay-islands-governor/'
-  weight = 10
+  weight = 20
 
 [[menu.main]]
   identifier = 'utila-mayor'
   name = "Utila Mayor Summaries"
   url = '/tags/utila-mayor/'
-  weight = 10
+  weight = 20
 
 [[menu.main]]
   identifier = 'utila-groceries'
   name = "Utila Groceries and Services"
   url = '/utila-groceries/'
-  weight = 11
+  weight = 21
 
 [[menu.main]]
   identifier = 'utila-restaurants'
