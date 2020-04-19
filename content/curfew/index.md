@@ -15,10 +15,10 @@ tags: [
 
 We are now under [absolute
 curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais)
-* The latest update is [here](https://www.facebook.com/gobernacionislas/photos/a.172315433411807/557572661552747/?type=3&theater)
+* The latest update is [here](https://www.facebook.com/gobernacionislas/photos/pcb.564190430890970/564189714224375/?type=3&theater)
 * [PCM-021-2020](https://www.presidencia.gob.hn/index.php/sala-de-prensa/7016-decreto-ejecutivo-numero-pcm-021-2020)
   is still in effect and denotes the exceptions to the curfew
-* Effective until 15:00 on 2020-04-19
+* Effective until 15:00 on 2020-04-26
 * All of Honduras
 * Only 2 people allowed in a vehicle, only one of which will be permitted to go
   shopping
