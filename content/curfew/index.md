@@ -51,6 +51,8 @@ Grocery Hours By ID:
   * Petrol stations
   * Pharmacies
   * Banks
+  * Hardware stores
+  * Cooperatives
 * Hours:
   * Seniors, pregnant women and disabled: 07:00 - 09:00
     * Banks: 09:00 - 10:00
