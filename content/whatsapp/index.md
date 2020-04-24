@@ -1,6 +1,6 @@
 ---
 title: "WhatsApp Groups"
-date: 2020-03-20T10:45:15-06:00
+date: 2020-04-24T10:45:15-06:00
 draft: false
 ---
 
@@ -61,6 +61,13 @@ Airlines
 
 The following is mostly obsolete as there aren't currently any planned flights
 into the islands.
+
+Currently Active
+================
+
+https://chat.whatsapp.com/GZYwGx9D7SRAoTfyZSEtRG
+* 2020-04-29: Spirit flight SAP-FLL 
+* 2020-04-30: 2 United flights SAP-IAH and TGU-IAH.
 
 Country Specific
 ================
