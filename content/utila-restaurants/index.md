@@ -1,6 +1,6 @@
 ---
 title: "Restaurants Doing Delivery on Utila"
-date: 2020-03-25T16:24:15-06:00
+date: 2020-03-29T16:24:15-06:00
 draft: false
 tags: [
   "delivery",
@@ -49,6 +49,10 @@ Mermaids:
 * Phone:
   * +504-9728-2623 (WhatsApp)
   * +504-3350-1353 (WhatsApp)
+
+Mo's Subs:
+* Take away
+* +554 8859 8930 (WhatsApp)
 
 Pizza Nut:
 * Delivery
