@@ -65,9 +65,8 @@ into the islands.
 Currently Active
 ================
 
-https://chat.whatsapp.com/GZYwGx9D7SRAoTfyZSEtRG
-* 2020-04-29: Spirit flight SAP-FLL 
-* 2020-04-30: 2 United flights SAP-IAH and TGU-IAH.
+United flights in May:
+* https://chat.whatsapp.com/GZYwGx9D7SRAoTfyZSEtRG
 
 Country Specific
 ================
@@ -112,6 +111,10 @@ Airline Specific (confirmed tickets only)
   * AirEuropa
   * Copa
   * Everyone not covered by any other group
+
+https://chat.whatsapp.com/GZYwGx9D7SRAoTfyZSEtRG
+* 2020-04-29: Spirit flight SAP-FLL 
+* 2020-04-30: 2 United flights SAP-IAH and TGU-IAH.
 
 Connector Flights
 =================
