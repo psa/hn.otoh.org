@@ -1,6 +1,6 @@
 ---
 title: "WhatsApp Groups"
-date: 2020-04-24T10:45:15-06:00
+date: 2020-05-08T10:45:15-06:00
 draft: false
 ---
 
@@ -17,6 +17,12 @@ Medication
 * [Medication Assist Roatan](https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0)
   * https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0
   * For important prescription medications which are difficult to acquire
+
+Volunteering to Paint the Medical Center
+========================================
+
+If you'd like to volunteer to help paint the medical center, join:
+* https://chat.whatsapp.com/DYO4Ii6SYIt9Qt7Er7kmU1
 
 Private Charters
 ================
