@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-04-13T22:12:15-06:00
+date: 2020-05-08T10:42:15-06:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -15,10 +15,10 @@ tags: [
 
 We are now under [absolute
 curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais)
-* The latest update is [here](https://www.facebook.com/gobernacionislas/photos/pcb.564190430890970/564189714224375/?type=3&theater)
+* The latest update is [here](https://www.facebook.com/gobernacionislas/photos/pcb.574382449871768/574382239871789/?type=3&theater)
 * [PCM-021-2020](https://www.presidencia.gob.hn/index.php/sala-de-prensa/7016-decreto-ejecutivo-numero-pcm-021-2020)
   is still in effect and denotes the exceptions to the curfew
-* Effective until 15:00 on 2020-04-26
+* Effective until 15:00 on 2020-05-17
 * All of Honduras
 * Only 2 people allowed in a vehicle, only one of which will be permitted to go
   shopping
@@ -83,6 +83,11 @@ If you have symptoms:
 * Do not leave home
 * Call +504-8820-2444 or see [this
   page](http://covid19roatan.com/emergency-numbers/) for local numbers.
+
+If you had symptoms previously and wish to get tested to see if you have ever
+had COVID-19:
+* English: https://forms.gle/sA4dkBVM8uvXvHsQ6
+* Español: https://forms.gle/6wk5W7fD6mKA5QCd6
 
 Fishing:
 * Permitted for personal and humanitarian reasons
