@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-05-08T10:42:15-06:00
+date: 2020-05-12T10:30:15-06:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -58,16 +58,14 @@ Grocery Hours By ID:
     * Banks: 09:00 - 10:00
   * Everyone else: 09:00 - 17:00
     * Banks: 10:00 - 17:00
-* You may shop based on the last digit of your ID (national or passport):
-  * 1,2: Monday
-  * 3,4: Tuesday
-  * 5,6: Wednesday
-  * 7,8: Thursday
-  * 9,0: Friday
+* You may shop based on the last digit of your ID (national or passport). The
+  weeks alternate, so group 1 is May 4 and group 6 is May 11.
+  * 1,6: Monday
+  * 2,7: Tuesday
+  * 3,8: Wednesday
+  * 4,9: Thursday
+  * 5,0: Friday
 * Saturday, Sunday: Movement prohibited
-  * There is an exception for the 10th and 11th of April:
-    * 10th of April: Only numbers 7 and 8
-    * 11th of April: Only numbers 9 and 0
 
 Required Bio Security Measures:
 * If you are leaving your house you must:
