@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-05-12T10:30:15-06:00
+date: 2020-05-13T10:30:15-06:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -13,59 +13,20 @@ tags: [
 ]
 ---
 
-We are now under [absolute
-curfew](https://covid19honduras.org/?q=toque-de-queda-absoluto-para-todo-el-pais)
-* The latest update is [here](https://www.facebook.com/gobernacionislas/photos/pcb.574382449871768/574382239871789/?type=3&theater)
-* [PCM-021-2020](https://www.presidencia.gob.hn/index.php/sala-de-prensa/7016-decreto-ejecutivo-numero-pcm-021-2020)
-  is still in effect and denotes the exceptions to the curfew
-* Effective until 15:00 on 2020-05-17
-* All of Honduras
-* Only 2 people allowed in a vehicle, only one of which will be permitted to go
-  shopping
-  * Do not bring children shopping. They should stay at home.
-* Restaurant delivery and take out is currently forbidden, so restaurants must
-  be closed.
-  * Restaurants will be permitted to re-open for take out and delivery once
-    appropriate biosecurity protocols are established.
-* Businesses requesting an operating permit should mail ccib_2000@yahoo.es
+Absolute curfew ends on the Bay Islands on the 18th of May.
 
 Hours:
 * General curfew 18:00 - 06:00.
   * Please let employees leave at 17:00 so they have time to get home before
     the curfew.
-* Don't leave home except for:
-  * Medical emergencies
-  * Groceries
-  * Heading to the airport to leave the country
-    * You will need your passport and ticket with you to show the police.
-  * Working a required job, which is one of the following:
-    * SINAGER personnel
-    * Heavy transport
-    * Food trucks
-    * People with exception notes
-
-Grocery Hours By ID:
-* Based on the last digit of your national ID or passport
-* Applies to:
-  * Supermarkets
-  * Petrol stations
-  * Pharmacies
-  * Banks
-  * Hardware stores
-  * Cooperatives
-* Hours:
-  * Seniors, pregnant women and disabled: 07:00 - 09:00
-    * Banks: 09:00 - 10:00
-  * Everyone else: 09:00 - 17:00
-    * Banks: 10:00 - 17:00
-* You may shop based on the last digit of your ID (national or passport). The
-  weeks alternate, so group 1 is May 4 and group 6 is May 11.
-  * 1,6: Monday
-  * 2,7: Tuesday
-  * 3,8: Wednesday
-  * 4,9: Thursday
-  * 5,0: Friday
-* Saturday, Sunday: Movement prohibited
+* Thursday 14th of May: No restrictions from 06:00-18:00 for those whose ID
+  ends in 9
+* Friday 15th of May: No restrictions from 06:00-18:00 for those whose ID ends
+  in 0
+* Saturday and Sunday (16th/17th) fully closed
+* Monday 18th of May onwards:
+  * Open dependent on rules set by municipal governments.
+  * Rules will be shared on Sunday the 17th of May
 
 Required Bio Security Measures:
 * If you are leaving your house you must:
@@ -74,8 +35,7 @@ Required Bio Security Measures:
 * Businesses must:
   * Ensure all staff are wearing face masks
   * Provide hand gel for customers and staff
-  * Use themometers at the entrance to take customers temperatures and forbid
-    access to those with a fever
+  * Ensure customers clean hands and feet when entering the store
 
 If you have symptoms:
 * Do not leave home
@@ -88,16 +48,12 @@ had COVID-19:
 * Español: https://forms.gle/6wk5W7fD6mKA5QCd6
 
 Fishing:
-* Permitted for personal and humanitarian reasons
-* Commercial fishing is forbidden
-* Local laws about equipment and species still exist
-* Please speak to the patrando and port authority for permission to take boats
-  out
+* Permitted 06:00-18:00
 
 Diving and Snorkelling:
-* Must be entirely personal equipment, including a personal boat if required 
-* Please speak to the patrando and port authority for permission to take boats
-  out
+* Recommend no more than 50% boat loading
+* Make sure people come to shop with masks on and only take off when there
+* Will not have to report to patronatos to dive
 
 Suspicious Activity Contacts:
 * Navy: +504-3249-8446
