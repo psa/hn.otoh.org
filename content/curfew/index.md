@@ -13,24 +13,21 @@ tags: [
 ]
 ---
 
-Absolute curfew ends on the Bay Islands on the 18th of May. For Utila
-requirements, please see the bottom of the page.
+Absolute curfew ended on the Bay Islands on the 18th of May. National curfew
+has been extended until 23:00 on the 24th of May
+
+For Utila requirements during the two week testing phase, ending 2020-05-31,
+please see the bottom of the page.
+
 
 General Requirements
 --------------------
 
 Hours:
-* General curfew 18:00 - 06:00.
+* General curfew 18:00 - 06:00 (may be overridden in the Bay Islands during the
+  reopening testing period).
   * Please let employees leave at 17:00 so they have time to get home before
     the curfew.
-* Thursday 14th of May: No restrictions from 06:00-18:00 for those whose ID
-  ends in 9
-* Friday 15th of May: No restrictions from 06:00-18:00 for those whose ID ends
-  in 0
-* Saturday and Sunday (16th/17th) fully closed
-* Monday 18th of May onwards:
-  * Open dependent on rules set by municipal governments.
-  * Rules will be shared on Sunday the 17th of May
 
 Required Bio Security Measures:
 * If you are leaving your house you must:
