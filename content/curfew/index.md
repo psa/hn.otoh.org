@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-05-13T10:30:15-06:00
+date: 2020-06-06T10:30:15-06:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -13,28 +13,21 @@ tags: [
 ]
 ---
 
-Reopening has been halted due to finding a case of COVID-19.
-
 General Requirements
 --------------------
 
 Hours:
-* General curfew 17:00 - 09:00
-* Open Hours for permitted businesses:
-  * Seniors, pregnant women and disabled: 07:00 - 09:00
-    * Banks: 09:00 - 10:00
-  * Everyone else: 09:00 - 17:00
-    * Banks: 10:00 - 17:00
+* General curfew 17:00 - 07:00
+* Staff can head home from work, after curfew starts
 
-Full Curfew:
-* Only the following may be open:
-  * Medical Centers and Pharmacies
+Reopening procedures:
+* Monday to Friday: All businesses may be open
+* On Saturday and Sunday, only the following can be open and only for delivery
+  * Pharmacies
   * Supermarkets
-  * Hardware stores
-  * Petrol Stations
-  * Banks
+  * Restaurants
 * You may shop based on the last digit of your ID (national or passport). The
-  weeks alternate, so group 1 is June 1 and group 6 is May 25.
+  weeks alternate, so group 1 is June 1 and group 6 is June 8.
   * 1,6: Monday
   * 2,7: Tuesday
   * 3,8: Wednesday
