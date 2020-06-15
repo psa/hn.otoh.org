@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-06-06T10:30:15-06:00
+date: 2020-06-15T10:30:15-06:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -28,11 +28,16 @@ Reopening procedures:
   * Restaurants
 * You may shop based on the last digit of your ID (national or passport). The
   weeks alternate, so group 1 is June 1 and group 6 is June 8.
-  * 1,6: Monday
-  * 2,7: Tuesday
-  * 3,8: Wednesday
-  * 4,9: Thursday
-  * 5,0: Friday
+  * 1: Monday. 2020-06-15, 2020-06-29, 2020-07-13
+  * 2: Tuesday. 2020-06-16, 2020-06-30, 2020-07-14
+  * 3: Wednesday. 2020-06-17, 2020-07-01, 2020-07-15
+  * 4: Thursday 2020-06-18, 2020-07-02
+  * 5: Friday 2020-06-19, 2020-07-03
+  * 6: Monday. 2020-06-22, 2020-07-06
+  * 7: Tuesday. 2020-06-23, 2020-07-07
+  * 8: Wednesday. 2020-06-24, 2020-07-08
+  * 9: Thursday 2020-06-25, 2020-07-09
+  * 0: Friday 2020-06-26, 2020-07-10
 * Saturday, Sunday: Movement prohibited
 
 Required Bio Security Measures:
@@ -43,8 +48,10 @@ Required Bio Security Measures:
   * Ensure all staff are wearing face masks
   * Provide hand gel for customers and staff
   * Ensure customers clean hands and feet when entering the store
+  * Get a [Salvo Conducto](https://serviciospoliciales.gob.hn/salvoconductos)
+    for staff
 
-If you have symptoms:
+If you have symptoms or need to report someone who does:
 * Do not leave home
 * Call +504-8820-2444 (Roatan) or +504-9700-1013 (Utila) or see [this
   page](http://covid19roatan.com/emergency-numbers/) for local numbers.
