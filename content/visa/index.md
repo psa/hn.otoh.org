@@ -14,8 +14,8 @@ Grace Period
 You will not be required to pay a fine if your visa expired during the pandemic
 lockdown.
 
-Start: 2020-03-16
-End: 2020-08-04 (tentative)
+* Start: 2020-03-16
+* End: 2020-08-04 (tentative)
 
 The following was provided by Marco Webster head of immigration in Roatan
 
