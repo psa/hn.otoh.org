@@ -42,7 +42,7 @@ Here is the 2020 costs of overstaying a visa. They are based on minimum wage
 | Time      | Total Cost In HNL | Approximate Cost in USD |
 | --------- | ----------------- | ----------------------- |
 | 1-30 days | 4,598.27          | 183.93                  |
-| 1 months  | 5,517.92          | 220.72                  |
+| 1 month   | 5,517.92          | 220.72                  |
 | 2 months  | 6,437.58          | 257.50                  |
 | 3 months  | 7,357.23          | 294.29                  |
 | 4 months  | 8,276.89          | 331.08                  |
