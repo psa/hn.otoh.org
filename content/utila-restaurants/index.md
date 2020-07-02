@@ -9,10 +9,40 @@ tags: [
 ]
 ---
 
-This page aims to list all the restaurants which are open and doing take away
-or delivery of meals.
+This page aims to list all the restaurants which are open.
+
+This table is sortable, just click on a column title.
+
+{{< sorted-table >}}
+
+| Name                                                                               | Mon         | Tue                     | Wed         | Thu         | Fri         | Sat                     | Sun                     | Phone                                       | Notes                                    |
+| ---                                                                                | ---         | ---                     | ---         | ---         | ---         | ---                     | ---                     | ---                                         | ---                                      |
+| [Bando Beach](https://www.facebook.com/UtilaBandoBeach)                            | 11:00-21:00 | 11:00-21:00             | 11:00-21:00 |             | 11:00-21:00 | 11:00-21:00             | 11:00-21:00             | [+504-8853-1916](https://wa.me/50488531916) | bandobeach@gmail.com                     |
+| [Buccaneers](https://www.facebook.com/BuccaneersGrill)                             | 10:00-17:00 | 10:00-17:00             | 10:00-17:00 | 10:00-17:00 | 10:00-17:00 | 10:00-17:00             |                         | [+504-3385-0048](https://wa.me/50433850048) |                                          |
+| [Che Pancho](https://www.facebook.com/chepanchoutila.cejas)                        | 11:00-20:00 |                         |             |             | 11:00-20:00 | 11:00-20:00             |                         | [+504-3367-8892](https://wa.me/50433678892) |                                          |
+| [Chocolate Company](https://www.facebook.com/Utila-Chocolate-Co-159591811389817)   | 10:00-16:00 |                         | 10:00-16:00 |             | 10:00-16:00 |                         |                         |                                             |                                          |
+| [El Castillo](https://www.facebook.com/restaurant.el.castillo.utila)               |             |                         |             |             |             | 14:00-20:00             |                         |                                             |                                          |
+| [Mango Tango](https://www.facebook.com/mangotangoutila)                            |             | 16:00-20:00             |             | 13:00-20:00 | 13:00-20:00 |                         | 11:00-15:00             | [+504-3211-9469](https://wa.me/50432119469) |                                          |
+| [Mermaids](https://www.facebook.com/UtilaMermaids)                                 | 11:00-19:30 | 11:00-19:30             | 11:00-19:30 | 11:00-19:30 | 11:00-15:00 |                         | 11:00-19:30             | [+504-9728-2623](https://wa.me/50497282623) |                                          |
+| [Mister Buddha](https://www.facebook.com/misterbuddhautila)                        | 11:30-19:30 |                         |             |             |             |                         |                         | [+504-9978-7705](https://wa.me/50499787705) |                                          |
+| [Pirates and Wenches](https://www.facebook.com/PiiratesandWenches-110338234028632) |             | 12:00-20:00             | 12:00-20:00 | 12:00-20:00 | 12:00-20:00 | 12:00-20:00             |                         | [+504-9978-7705](https://wa.me/50499787705) |                                          |
+| Pizza Nut                                                                          | 16:00-20:00 | 16:00-20:00             | 16:00-20:00 | 16:00-20:00 | 16:00-20:00 | 16:00-20:00             | 16:00-20:00             | [+504-9969-6360](https://wa.me/50499696360) |                                          |  |
+| RJ's                                                                               |             |                         |             |             | 16:00-20:00 |                         | 16:00-20:00             | [+504-9864-7035](https://wa.me/50498647035) |                                          |  |
+| [Silver Rose](https://www.facebook.com/silverroserestaurantbar)                    |             |                         | 14:00-20:00 | 14:00-20:00 | 14:00-20:00 | 13:00-20:00             | 13:00-20:00             | [+504-9929-4065](https://wa.me/50499294065) |                                          |  |
+| [Sweet Salsa](https://www.facebook.com/SweetSalsaUtila)                            |             | 11:00-14:30 17:00-19:30 |             |             |             | 11:00-14:30 17:00-19:30 | 11:00-14:30 17:00-19:30 | [+504-9503-6728](https://wa.me/50495036728) |                                          |  |
+| The Pink Flamingo                                                                  |             |                         | 11:00-20:00 |             | 11:00-20:00 |                         | 11:00-20:00             |                                             | Dine in only, next to Bush's Supermarket |  |
+| [The Rock Cafe](https://www.facebook.com/utilarockcafe)                            | 11:00       | 11:00                   | 11:00       |             | 11:00       | 11:00                   |                         | [+504-3351-3461](https://wa.me/50433513461) |                                          |
+| [Tiff's Bistro](https://www.facebook.com/BlueBayouBeachBarUtila)                   | 11:30-19:30 |                         |             | 11:30-19:30 | 11:30-19:30 | 11:30-19:30             | 11:30-19:30             | [+504-8769-5450](https://wa.me/50487695450) | At Blue Bayou Beach Bar |
+
+{{< /sorted-table >}}
+
+Other Food Services
+-------------------
+
+A few individuals making food as well restaurants I haven't yet verified.
 
 Blanca Rotisserie Chicken:
+
 * Delivery
 * [Message Blanca on Facebook](https://www.facebook.com/blanca.murphy)
 * Not daily
@@ -21,10 +51,6 @@ Blanca Rotisserie Chicken:
   * Center of town HNL 30
   * Blue Bayou & Trade Winds HNL 40
   * Airport HNL 50
-
-Gagas:
-* Delivery
-* Phone: +504-3211-3317 (WhatsApp)
 
 Grace Cafe:
 * Delivery only
@@ -36,27 +62,7 @@ Hot Spot Cafe:
 * Phone: +504-3165-2872 (WhatsApp)
 
 La Casita:
-* Delivery only
 * +504-9707-3805 (WhatsApp)
-
-Mango Inn:
-* Take away
-* [Message Jimmy Clinton on Facebook](https://www.facebook.com/jimmy.clinton.35)
-* 2 for 1 Pizzas on Tuesday
-
-Mermaids:
-* Take away
-* Phone:
-  * +504-9728-2623 (WhatsApp)
-  * +504-3350-1353 (WhatsApp)
-
-Mo's Subs:
-* Take away
-* +554 8859 8930 (WhatsApp)
-
-Pizza Nut:
-* Delivery
-* Phone: +504-9969-6360
 
 Relapse Seafood Restaurant:
 * Take away
@@ -69,7 +75,3 @@ Sandy Bay:
 Seven Seas:
 * Delivery
 * +504 3168-7565 (WhatsApp)
-
-The Rock Cafe:
-* Takeout
-* +504-3351-3461 (WhatsApp)
