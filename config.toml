@@ -7,10 +7,10 @@ paginate = 10 # The number of posts to show before overflowing to the next page.
 summaryLength = 10 # Configure length of homepage summary
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-#googleAnalytics = "" 
+#googleAnalytics = ""
 
 # Add your Disqus shortname here.
-#disqusShortname = ""    
+#disqusShortname = ""
 
 [taxonomies]
   tag = "tags"
@@ -56,6 +56,12 @@ summaryLength = 10 # Configure length of homepage summary
   name = "Official Websites"
   url = '/official-sites/'
   weight = 10
+
+[[menu.main]]
+  identifier = 'medical'
+  name = 'Medical Information'
+  url = '/medical/'
+  weight = 12
 
 [[menu.main]]
   identifier = 'curfew'
