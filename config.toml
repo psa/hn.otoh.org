@@ -61,6 +61,12 @@ summaryLength = 10 # Configure length of homepage summary
   identifier = 'medical'
   name = 'Medical Information'
   url = '/medical/'
+  weight = 11
+
+[[menu.main]]
+  identifier = 'visa'
+  name = 'Visa Information'
+  url = '/visa/'
   weight = 12
 
 [[menu.main]]
