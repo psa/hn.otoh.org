@@ -40,3 +40,30 @@ There are two drug protocols used for treating COVID-19 in Honduras:
     * Chloroquine or hydroxychloroquine
     * High flow O2
     * Pronation
+
+Utila Doctor and Pharmacy
+-------------------------
+
+Bahia:
+* Phone: +504-9878-8030
+* Orders: +504-9534-9522
+
+Clínica La Fe:
+* Phone:
+  * +504-9887-1360 (WhatsApp)
+  * +504-9819-4509
+
+Clinica Privada Utila:
+* Phone: +504-9711-4955 (Also WhatsApp)
+* Phone: +504-3285-6843
+
+Medical Clinica Doctor Reyes:
+* Phone: +504-8951-0549
+
+Farmacia Díaz:
+* Phone: +504-8951-0549
+
+Utila Hyperbaric center and Trauma Center:
+* Phone: +504-3368-9144
+
+
