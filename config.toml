@@ -43,13 +43,19 @@ summaryLength = 10 # Configure length of homepage summary
   identifier = 'sol-foundation'
   name = 'Donation: Sol Foundation'
   url = 'https://www.solroatan.org/'
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   identifier = 'support-utila'
   name = 'Donation: Support Utila'
   url = 'http://www.SupportUtila.org'
-  weight = 1
+  weight = 3
+
+[[menu.main]]
+  identifier = 'support-guanaja'
+  name = 'Donation: Support Guanaja'
+  url = 'https://www.gofundme.com/f/guanaja-covid-10-relief-fund'
+  weight = 4
 
 [[menu.main]]
   identifier = 'official-sites'
