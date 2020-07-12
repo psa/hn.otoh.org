@@ -8,6 +8,19 @@ tags: [
 ]
 ---
 
+Residency
+---------
+
+If you are renewing a residency permit, [Bette
+Booth](https://www.facebook.com/bette.booth0) put together great guide on
+how to do it, which you can get [here](/visa/residency-renewal.pdf).
+
+This uses the online renewal system
+[here](http://atencionenlinea.inm.gob.hn:8443/appALAMcliente) but be aware that
+this is not secure. If you are not comfortable with your details being
+transmitted unencrypted over the internet then you should discuss renewal with
+your immigration lawyer.
+
 Grace Period
 ------------
 
@@ -15,23 +28,24 @@ You will not be required to pay a fine if your visa expired during the pandemic
 lockdown.
 
 * Start: 2020-03-16
-* End: 2020-08-04 (tentative)
+* End: 2020-08-04
+
+Anyone who stays beyond the end of the grace period needs to renew their visa
+or be willing to pay the overstay fines. The alternative is to leave, but
+without residency you will not be able to return until the borders are
+re-opened to tourism.
 
 The following was provided by Marco Webster head of immigration in Roatan
 
 ![Tourist Visas](/visa/tourist-visa.jpeg)
 
-Extensions
-----------
+Tourist Visa Extensions
+-----------------------
 
 There have been discussions of online forms, but these are currently only
 available for extending residency permits.
 
 [Visa extension details](http://inm.gob.hn/prorrogas_y_estadias.html)
-
-There is an online services renewal page
-[here](http://atencionenlinea.inm.gob.hn:8443/appALAMcliente) but it is not
-secure so I would strongly recommend against using it.
 
 Overstay
 --------
