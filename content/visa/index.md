@@ -50,7 +50,13 @@ available for extending residency permits.
 Overstay
 --------
 
-Here is the 2020 costs of overstaying a visa. They are based on minimum wage
+If you have to pay a fine, make sure that you leave enough time to visit the
+bank after getting the penalty notice from immigration. The bank will give you
+a receipt which you can take back to immigration certifying payment. Note that
+banks are frequently requiring close toed shoes, so keep that in mind when
+deciding on what you will wear to travel.
+
+Below is the 2020 costs of overstaying a visa. They are based on minimum wage
 (HNL 9,196.54) and each month is an extra 10% of minimum wage (HNL 919.654)
 
 | Time      | Total Cost In HNL | Approximate Cost in USD |
