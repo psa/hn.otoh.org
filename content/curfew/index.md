@@ -18,6 +18,7 @@ General Requirements
 
 Hours:
 * General curfew 17:00 - 07:00
+  * Utila 19:00-07:00
 * Staff can head home from work, after curfew starts
 
 Reopening procedures:
