@@ -71,8 +71,11 @@ into the islands.
 Currently Active
 ================
 
-United flights in May:
+RTB Mainland US:
 * https://chat.whatsapp.com/GZYwGx9D7SRAoTfyZSEtRG
+
+US Mainland RTB:
+* https://chat.whatsapp.com/KIjbNMw7M5UKjvhcBOykRJ
 
 Country Specific
 ================
@@ -119,7 +122,7 @@ Airline Specific (confirmed tickets only)
   * Everyone not covered by any other group
 
 https://chat.whatsapp.com/GZYwGx9D7SRAoTfyZSEtRG
-* 2020-04-29: Spirit flight SAP-FLL 
+* 2020-04-29: Spirit flight SAP-FLL
 * 2020-04-30: 2 United flights SAP-IAH and TGU-IAH.
 
 Connector Flights
