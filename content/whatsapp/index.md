@@ -18,6 +18,12 @@ Medication
   * https://chat.whatsapp.com/IcfolfmVj5EG2llS1N6OR0
   * For important prescription medications which are difficult to acquire
 
+Visa and Residency Renewal
+==========================
+
+If you need to renew your residency or extend your visa, the volunteers on this channel will try to assist you:
+* https://chat.whatsapp.com/KWW4Z2acMoO5XHpKg1w7rU
+
 Volunteering to Paint the Medical Center
 ========================================
 
