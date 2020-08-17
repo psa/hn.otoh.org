@@ -8,6 +8,16 @@ tags: [
 ]
 ---
 
+Entry Requirements for Tourists
+-------------------------------
+
+* A valid PCR test within 72 hours (although authorities have promised to be
+  flexible given that some countries have very slow PCR turn around or lack of
+  availability)
+* Fill in https://prechequeo.inm.gob.hn with details of testing
+* Quick tests or PCR tests are requested for domestic travel
+  * Some locations, such as Utila, are requiring PCR tests
+
 Residency
 ---------
 
