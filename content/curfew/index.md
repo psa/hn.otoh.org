@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-06-15T10:30:15-06:00
+date: 2020-08-21T09:30:15-07:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -17,29 +17,22 @@ General Requirements
 --------------------
 
 Hours:
-* General curfew 17:00 - 07:00
-  * Utila 19:00-07:00
+* General curfew 20:00 - 06:00
 * Staff can head home from work, after curfew starts
 
 Reopening procedures:
-* Monday to Friday: All businesses may be open
-* On Saturday and Sunday, only the following can be open and only for delivery
-  * Pharmacies
-  * Supermarkets
-  * Restaurants
+* All businesses may be open
 * You may shop based on the last digit of your ID (national or passport). The
   weeks alternate, so group 1 is June 1 and group 6 is June 8.
-  * 1: Monday. 2020-06-15, 2020-06-29, 2020-07-13
-  * 2: Tuesday. 2020-06-16, 2020-06-30, 2020-07-14
-  * 3: Wednesday. 2020-06-17, 2020-07-01, 2020-07-15
-  * 4: Thursday 2020-06-18, 2020-07-02
-  * 5: Friday 2020-06-19, 2020-07-03
-  * 6: Monday. 2020-06-22, 2020-07-06
-  * 7: Tuesday. 2020-06-23, 2020-07-07
-  * 8: Wednesday. 2020-06-24, 2020-07-08
-  * 9: Thursday 2020-06-25, 2020-07-09
-  * 0: Friday 2020-06-26, 2020-07-10
-* Saturday, Sunday: Movement prohibited
+  * Saturday 2020-08-22 is 1
+  * Sunday 2020-08-23 is 2
+  * Monday 2020-08-24 is 3
+  * Tuesday 2020-08-25 is 4
+  * Wednesday 2020-08-26 is 5
+  * Thursday 2020-08-27 is 6
+  * Friday 2020-08-28 is 7
+  * Saturday 2020-08-29 is 8
+  * Sunday 2020-08-30 is 9
 
 Required Bio Security Measures:
 * If you are leaving your house you must:
