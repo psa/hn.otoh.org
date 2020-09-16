@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-08-21T09:30:15-07:00
+date: 2020-09-16T09:30:15-07:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -17,24 +17,29 @@ General Requirements
 --------------------
 
 Hours:
-* General curfew 20:00 - 06:00
+* General curfew 20:00 - 07:00
 * Staff can head home from work, after curfew starts
 
 Reopening procedures:
 * All businesses may be open
-* You may shop based on the last digit of your ID (national or passport). The
-  weeks alternate, so group 1 is June 1 and group 6 is June 8.
-  * Saturday 2020-08-22 is 1
-  * Sunday 2020-08-23 is 2
-  * Monday 2020-08-24 is 3
-  * Tuesday 2020-08-25 is 4
-  * Wednesday 2020-08-26 is 5
-  * Thursday 2020-08-27 is 6
-  * Friday 2020-08-28 is 7
-  * Saturday 2020-08-29 is 8
-  * Sunday 2020-08-30 is 9
+* You may shop based on the last digit of your ID (national or passport).
+  * Wednesday 2020-09-16 is 5
+  * Thursday 2020-09-17 is 6
+  * Friday 2020-09-18 is 7
+  * Saturday 2020-09-19 is 8
+  * Sunday 2020-09-20 is 9
+
+Tourists:
+* Tourists are exempt from the number system, but need to show their
+  reservation to police
+* Tourists must get a COVID-19 test before departure, within 72 hours of their
+  expected arrival in Honduras
+* Those arriving with a PCR test can travel freely
+* Those arriving with a quick test may not leave their place of residence (this
+  could be a hotel, private rental or other abode) for 14 days
 
 Required Bio Security Measures:
+* Police are fining people who do not wear masks
 * If you are leaving your house you must:
   * Wear a face mask
   * Keep at least 2 meters from other people (social distancing)
@@ -60,9 +65,3 @@ Suspicious Activity Contacts:
 * Roatan Marine Park: +504-9430-3198
 * Merchant Marine: +504-9970-5310 (Capt Meija Gonzales) or +504-9846-7781 (Don
   McLaughlin)
-
-Returning to the Bay Islands:
-* If you are a resident of the bay islands and wish to return, fill out one of
-  these forms:
-  * English: https://forms.gle/2hNt4pCJJYssKb666
-  * Español: https://forms.gle/pd5GtCxTmpqU6e6k8
