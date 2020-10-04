@@ -25,7 +25,7 @@ summaryLength = 10 # Configure length of homepage summary
 [params]
   math = true
   # Blog description at the top of the homepage. Supports markdown.
-  description = "COVID-19 resources for Utila and the Honduran Bay Islands"
+  description = "Unofficial COVID-19 resources for Utila and the Honduran Bay Islands"
   github = "https://github.com/psa/hn.otoh.org"
 
 # Menu links along the sidebar navigation.
