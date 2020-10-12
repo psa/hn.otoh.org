@@ -1,6 +1,6 @@
 ---
 title: "Curfew"
-date: 2020-09-16T09:30:15-07:00
+date: 2020-10-12T09:30:15-07:00
 draft: false
 tags: [
   "absolute-curfew",
@@ -17,26 +17,30 @@ General Requirements
 --------------------
 
 Hours:
-* General curfew 20:00 - 07:00
-* Staff can head home from work, after curfew starts
+* General curfew 20:00 - 06:00
+* Businesses must reserve the following hours for those who are at risk:
+  * General businesses 07:00 - 09:00
+  * Banks: 09:00 - 10:00
 
 Reopening procedures:
 * All businesses may be open
 * You may shop based on the last digit of your ID (national or passport).
-  * Wednesday 2020-09-16 is 5
-  * Thursday 2020-09-17 is 6
-  * Friday 2020-09-18 is 7
-  * Saturday 2020-09-19 is 8
-  * Sunday 2020-09-20 is 9
+  * 2020-10-13 is 2 & 3
+  * 2020-10-14 is 3 & 4
+  * 2020-10-15 is 4 & 5
+  * 2020-10-16 is 6 & 7
+  * 2020-10-17 is 8 & 9
+  * 2020-10-18 is 0 & 1
+  * 2020-10-19 is 2 & 3
+  * 2020-10-20 is 4 & 5
+  * 2020-10-21 is 6 & 7
+  * 2020-10-22 is 8 & 9
 
 Tourists:
 * Tourists are exempt from the number system, but need to show their
   reservation to police
 * Tourists must get a COVID-19 test before departure, within 72 hours of their
   expected arrival in Honduras
-* Those arriving with a PCR test can travel freely
-* Those arriving with a quick test may not leave their place of residence (this
-  could be a hotel, private rental or other abode) for 14 days
 
 Required Bio Security Measures:
 * Police are fining people who do not wear masks
