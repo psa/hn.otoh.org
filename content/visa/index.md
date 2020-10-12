@@ -31,24 +31,6 @@ this is not secure. If you are not comfortable with your details being
 transmitted unencrypted over the internet then you should discuss renewal with
 your immigration lawyer.
 
-Grace Period
-------------
-
-You will not be required to pay a fine if your visa expired during the pandemic
-lockdown.
-
-* Start: 2020-03-16
-* End: 2020-08-04
-
-Anyone who stays beyond the end of the grace period needs to renew their visa
-or be willing to pay the overstay fines. The alternative is to leave, but
-without residency you will not be able to return until the borders are
-re-opened to tourism.
-
-The following was provided by Marco Webster head of immigration in Roatan
-
-![Tourist Visas](/visa/tourist-visa.jpeg)
-
 Tourist Visa Extensions
 -----------------------
 
