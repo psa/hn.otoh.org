@@ -1,6 +1,6 @@
 ---
 title: "Visas and Overstay Fines"
-date: 2020-07-02T10:30:15-06:00
+date: 2020-10-12T10:30:15-06:00
 draft: false
 tags: [
   "immigration",
@@ -11,12 +11,12 @@ tags: [
 Entry Requirements for Tourists
 -------------------------------
 
-* A valid PCR test within 72 hours (although authorities have promised to be
-  flexible given that some countries have very slow PCR turn around or lack of
-  availability)
-* Fill in https://prechequeo.inm.gob.hn with details of testing
-* Quick tests or PCR tests are requested for domestic travel
-  * Some locations, such as Utila, are requiring PCR tests
+* A valid test within 72 hours
+  * A PCR test is recommended but no longer required
+  * Quick tests will be accepted
+* Fill in https://prechequeo.inm.gob.hn with details of testing before your
+  flight
+* Domestic travelers are requested to get tested before traveling
 
 Residency
 ---------
