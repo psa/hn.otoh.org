@@ -1,6 +1,6 @@
 ---
 title: "Visas and Overstay Fines"
-date: 2020-10-12T10:30:15-06:00
+date: 2020-10-15T10:30:15-06:00
 draft: false
 tags: [
   "immigration",
@@ -16,7 +16,10 @@ Entry Requirements for Tourists
   * Quick tests will be accepted
 * Fill in https://prechequeo.inm.gob.hn with details of testing before your
   flight
-* Domestic travelers are requested to get tested before traveling
+* Some travelers are reporting that printouts are smoothing the way, so if you
+  can easily print out your prechequeo and test results it is advised to do so.
+* Domestic travelers are requested, but not required, to get tested before
+  traveling
 
 Residency
 ---------
