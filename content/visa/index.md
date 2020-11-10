@@ -1,6 +1,6 @@
 ---
 title: "Visas and Overstay Fines"
-date: 2020-10-15T10:30:15-06:00
+date: 2020-11-10T10:30:15-06:00
 draft: false
 tags: [
   "immigration",
@@ -16,6 +16,8 @@ Entry Requirements for Tourists
   * Quick tests will be accepted
 * Fill in https://prechequeo.inm.gob.hn with details of testing before your
   flight
+  * A guide is available
+    [here](https://www.facebook.com/groups/1106207316182308/permalink/2054115051391525)
 * Some travelers are reporting that printouts are smoothing the way, so if you
   can easily print out your prechequeo and test results it is advised to do so.
 * Domestic travelers are requested, but not required, to get tested before
@@ -38,7 +40,8 @@ Tourist Visa Extensions
 -----------------------
 
 There have been discussions of online forms, but these are currently only
-available for extending residency permits.
+available for extending residency permits. If you want to extend a tourist visa
+to 120 days you need to visit an office.
 
 [Visa extension details](http://inm.gob.hn/prorrogas_y_estadias.html)
 
