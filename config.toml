@@ -1,6 +1,6 @@
 baseURL = "https://hn.otoh.org"
 languageCode = "en-au"
-title = "Honduras Bay Islands COVID-19 Resources"
+title = "Unofficial Honduras Bay Islands COVID-19 Resources"
 theme = "noteworthy"
 enableRobotsTXT = false
 paginate = 10 # The number of posts to show before overflowing to the next page.
@@ -104,12 +104,6 @@ summaryLength = 10 # Configure length of homepage summary
   name = "Utila Restaurants"
   url = '/utila-restaurants/'
   weight = 22
-
-[[menu.main]]
-  identifier = 'whatsapp'
-  name = "WhatsApp Groups (mostly flights)"
-  url = '/whatsapp/'
-  weight = 90
 
 [[menu.main]]
   identifier = "expat-registration"
