@@ -1,6 +1,6 @@
 ---
 title: "Official Websites"
-date: 2020-03-30T15:28:15-06:00
+date: 2020-11-11T23:28:15-06:00
 draft: false
 ---
 
@@ -33,9 +33,7 @@ We recommend you join or follow the following on Facebook:
 
 Official Sites:
 * [Covid-19 Roatan and Bay Islands](https://m.facebook.com/Covid19Roatan/)
-  * Video chats every day by the Governor of the Bay Islands:
-    * 16:00 Spanish
-    * 16:45 English
+  * Video chats periodically by the Governor of the Bay Islands:
   * Official notices for the Bay Islands
 * [Municipality of Utila](https://www.facebook.com/Municipalidad-de-Utila-328195770717532/)
   * Official notices for Utila
