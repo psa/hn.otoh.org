@@ -17,8 +17,9 @@ General Requirements
 --------------------
 
 Hours:
-* General curfew 20:00 - 05:00
-* The number system has been suspended due to hurricane Eta
+* General curfew 21:00 - 05:00
+* This is across all of Honduras as of 2021-01-11 to combat the rising levels
+  of COVID-19 infection.
 
 Tourists:
 * Tourists must get a COVID-19 test before departure, within 72 hours of their
