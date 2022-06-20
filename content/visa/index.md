@@ -1,6 +1,6 @@
 ---
 title: "Visas and Overstay Fines"
-date: 2020-11-10T10:30:15-06:00
+date: 2022-06-20T10:30:15-06:00
 draft: false
 tags: [
   "immigration",
@@ -11,9 +11,7 @@ tags: [
 Entry Requirements for Tourists
 -------------------------------
 
-* A valid test within 72 hours
-  * A PCR test is recommended but no longer required
-  * Quick tests will be accepted
+* Proof of vaccination.
 * Fill in https://prechequeo.inm.gob.hn with details of testing before your
   flight
   * A guide is available
@@ -39,11 +37,9 @@ your immigration lawyer.
 Tourist Visa Extensions
 -----------------------
 
-There have been discussions of online forms, but these are currently only
-available for extending residency permits. If you want to extend a tourist visa
-to 120 days you need to visit an office.
+If you want to extend a tourist visa to 120 days you need to visit an office.
 
-[Visa extension details](http://inm.gob.hn/prorrogas_y_estadias.html)
+[Visa extension details](http://inm.gob.hn/extranjeria.html)
 
 Overstay
 --------
@@ -54,36 +50,17 @@ a receipt which you can take back to immigration certifying payment. Note that
 banks are frequently requiring close toed shoes, so keep that in mind when
 deciding on what you will wear to travel.
 
-Below is the 2020 costs of overstaying a visa. They are based on minimum wage
-(HNL 9,196.54) and each month is an extra 10% of minimum wage (HNL 919.654)
+Below is the 2022 costs of overstaying a visa. These are based on a minimum
+wage (HNL 11,579.52).
 
-| Time      | Total Cost In HNL | Approximate Cost in USD |
-| --------- | ----------------- | ----------------------- |
-| 1-30 days | 4,598.27          | 183.93                  |
-| 1 month   | 5,517.92          | 220.72                  |
-| 2 months  | 6,437.58          | 257.50                  |
-| 3 months  | 7,357.23          | 294.29                  |
-| 4 months  | 8,276.89          | 331.08                  |
-| 5 months  | 9,196.54          | 367.86                  |
-| 6 months  | 10,116.19         | 404.65                  |
-| 7 months  | 11,035.85         | 441.43                  |
-| 8 months  | 11,955.50         | 478.22                  |
-| 9 months  | 12,875.16         | 515.01                  |
-| 10 months | 13,794.81         | 551.79                  |
-| 11 months | 14,714.46         | 588.58                  |
-| 12 months | 15,634.12         | 625.36                  |
-| 13 months | 16,553.77         | 662.15                  |
-| 14 months | 17,473.43         | 698.94                  |
-| 15 months | 18,393.08         | 735.72                  |
-| 16 months | 19,312.73         | 772.51                  |
-| 17 months | 20,232.39         | 809.30                  |
-| 18 months | 21,152.04         | 846.08                  |
-| 19 months | 22,071.70         | 882.87                  |
-| 20 months | 22,991.35         | 919.65                  |
-| 21 months | 23,911.00         | 956.44                  |
-| 22 months | 24,830.66         | 993.23                  |
-| 23 months | 25,750.31         | 1,030.01                |
-| 24 months | 26,669.97         | 1,066.80                |
+| Time               | Total Cost In HNL | Approximate Cost in USD |
+|--------------------|-------------------|-------------------------|
+| 1 day - 6 months   | 5,789.76          | 237.22                  |
+| 6 months - 2 years | 11,579.52         | 474.45                  |
+| 2 years - 3 years  | 17,369.28         | 711.67                  |
+| 3 years - 4 years  | 23,159.04         | 948.90                  |
+| 4 years - 5 years  | 28,948.80         | 1,186.12                |
+| 5 years +          | 34,738.56         | 1,423.34                |
 
 Here is the official document:
 ![Overstay](/visa/overstay.jpeg)
